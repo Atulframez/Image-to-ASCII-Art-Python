@@ -33,9 +33,6 @@ Image-to-ASCII-Art-Python/
 ├── sample_image.png # Sample image (optional)
 └── README.md
 
-yaml
-Copy code
-
 ---
 
 ## 📦 Installation
