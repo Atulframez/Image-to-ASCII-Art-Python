@@ -39,4 +39,4 @@ if __name__ == "__main__":
     image = cv2.imread(image_path, 0)
     ascii_art = img_to_ascii(image)
     print_out_ascii(ascii_art)
-    
+    # 15
